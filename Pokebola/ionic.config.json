@@ -1,0 +1,7 @@
+{
+  "name": "Pokebola",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
